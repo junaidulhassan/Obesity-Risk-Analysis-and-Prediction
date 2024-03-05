@@ -17,6 +17,22 @@ If you want to see my notebook at Kaggle you can use link
 * Pandas
 * matplotlib
 
+## Choose Machine Learning Estimators
+##### Benefits of XGBoost:
+* Fast calculations thanks to its ability to divide tasks among many computer processors simultaneously.
+* Automatic control of overfitting with built-in settings that make the model simpler and less sensitive to small changes.
+* Easily handles cases where there are missing entries in the dataset, saving time and effort needed for fixing them manually.
+* Allows choosing any mathematical formula for measuring errors, giving more flexibility to fit complex situations.
+* More effective use of second-order derivatives to optimize results, usually leading to better performance.
+* Performs cross-validation internally during training, so there's less manual tweaking required.
+  
+##### Benefits of Gradient Boosting Machine (GBM):
+* Strong theoretical background ensures consistent performance and wide applicability.
+* Step-by-step addition of trees to form the complete model, helping understand individual component performances.
+* Option to integrate third-party libraries for distributing tasks across multiple computer processors or even servers.
+* Supports various kinds of loss functions suitable for regression, binary, and multi-class classification tasks.
+* Offers transparency with respect to feature importances, revealing which ones impact the output the most.
+
 ## About Project Goals
 For this project, our focus lies in understanding essential factors contributing to increased obesity risk using collected data. Furthermore, we aspire to build a reliable machine learning tool capable of assessing personalized obesity risk predictions based on historical profiles.By delving deeper into the influential elements driving obesity odds, we hope to contribute meaningful insights facilitating awareness and prevention. Simultaneously, leveraging comprehensive data sets to train accurate ML models offers valuable perspectives regarding personalized obesity risk estimations, empowering users to adopt informed choices concerning healthy living improvements.
 
