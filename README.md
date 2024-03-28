@@ -2,16 +2,16 @@
 
 In the field of Obesity Risk Analysis and Detection, historical data plays a crucial role in developing predictive models aimed at estimating an individual's likelihood of experiencing weight issues based on several key lifestyle factors. These factors span dietary habits, physical activities, substance usage, hydration levels, transportation modes, screen time exposure, and calorie consumption tracking. 
 
-Applying robust machine learning techniques enables analysts to identify critical correlations amongst these determinants, subsequently crafting intelligent systems equipped to predict obesity risks effectively. With preventive healthcare initiatives prioritized, such analyses support tailored guidance and informed decisions towards mitigating adverse health impacts. Addressing these concerns translates not only to improved wellbeing but reduced strain on medical resources, thus benefitting society at large.
+Applying robust machine learning techniques enables analysts to identify critical correlations amongst these determinants, subsequently crafting intelligent systems equipped to predict obesity risks effectively. With preventive healthcare initiatives prioritized, such analyses support tailored guidance and informed decisions towards mitigating adverse health impacts. Addressing these concerns translates not only to improved well-being but reduced strain on medical resources, thus benefitting society at large.
 ## Notebook at My Kaggle Profile
-If you want to see my notebook at Kaggle you can use link
+If you want to see my notebook at Kaggle you can use the link
 <https://www.kaggle.com/code/junaidullhassan/obesity-risk-prediction-gradientboosting-xgboost>
 
 ## Key Technologies & Libraries Used
 
 * Python
 * Jupyter Notebook
-* scikit-learn
+* sci-kit-learn
 * seaborn
 * Numpy
 * Pandas
